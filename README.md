@@ -1,17 +1,17 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7F00FF&height=220&text=nhotungdo&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Futuristic%20Engineer%20%7C%20Cloud%20%7C%20DevOps%20%7C%20AI%20%7C%20Backend&descAlign=50&descAlignY=60" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7F00FF&height=220&text=nhotungdo&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Cloud%20%7C%20DevOps%20%7C%20AI&descAlign=50&descAlignY=60" alt="banner" />
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1400&color=00E5FF&center=true&vCenter=true&random=false&width=900&lines=Ch%C3%A0o+m%E1%BB%ABng+%C4%91%E1%BA%BFn+kh%C3%B4ng+gian+s%E1%BB%91+c%E1%BB%A7a+nhotungdo;X%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+Cloud+%2F+DevOps+%F0%9F%92%BB;AI+%26+Backend+%C4%91%E1%BB%83+gi%E1%BA%A3i+quy%E1%BA%BFt+b%C3%A0i+to%C3%A1n+th%E1%BB%B1c+t%E1%BA%BF" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1400&color=00E5FF&center=true&vCenter=true&random=false&width=900&lines=Backend+Developer+%7C+System+Design+%7C+Cloud+%26+DevOps;X%C3%A2y+d%E1%BB%B1ng+backend+%E1%BB%95n+%C4%91%E1%BB%8Bnh%2C+hi%E1%BB%87u+n%C4%83ng%2C+m%E1%BB%9F+r%E1%BB%99ng;AI+%C6%A1n+%C4%91%E1%BB%93ng+h%C3%B3a+workflow+%26+v%E1%BA%ADn+h%C3%A0nh" alt="typing" />
 </a>
 </p>
 
 ---
 
 ### 👨‍💻 Giới thiệu
-- 🔭 Mình làm việc trong lĩnh vực phát triển phần mềm và nghiên cứu các công nghệ mới.
+- 💼 Vai trò: Backend Developer (System Design, API, Microservices).
 - 🌱 Quan tâm: Cloud, DevOps, AI/ML, các công nghệ backend hiện đại.
 - 👯 Sẵn sàng hợp tác trong các dự án mã nguồn mở và sản phẩm có tác động thực tế.
 - 💬 Chủ đề yêu thích: Kiến trúc hệ thống, SRE/DevOps, hạ tầng đám mây, AI ứng dụng.
